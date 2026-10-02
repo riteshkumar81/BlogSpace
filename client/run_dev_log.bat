@@ -1,0 +1,1 @@
+npm.cmd run dev > dev.log 2>&1

@@ -1,0 +1,14 @@
+/server/.env
+/client/.env
+.env
+node_modules/
+dist/
+build/
+*.log
+*.err
+*.out
+run_tests.ps1
+test_auth.js
+commentId*.txt
+postId*.txt
+token*.txt
